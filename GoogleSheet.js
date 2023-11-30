@@ -1,4 +1,4 @@
-const scriptURL = 'https://script.google.com/a/macros/greenlabelrecycling.com/s/AKfycbxdV02cCsA9wu1mpBq6LD4qmd43YzmCQRMVWD7-wH4VdWWQYG1zL6oJ5WnIPr-2jRm5/exec'
+const scriptURL = 'https://script.google.com/a/macros/greenlabelrecycling.com/s/AKfycbxOTlaEw8Ovu86ev4yOzzU0ddGU7325vwoZ8kJCL-4/dev'
 
 const form = document.forms['contact-form']
 console.log(window.location);
