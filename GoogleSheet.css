@@ -46,3 +46,17 @@ textarea{
 #submit:hover{
 	background-color: #333333;
 }
+.float-container {
+	margin: auto; 
+	width: 50%;
+}
+.float-child-left {
+    width: 85%;
+    float: left;
+    padding: 5px;
+}
+.float-child-right {
+    width: 15%;
+    float: left;
+    padding: 5px;
+}
